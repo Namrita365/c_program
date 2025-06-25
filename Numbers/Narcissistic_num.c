@@ -1,0 +1,1 @@
+/*this is also known as armstrong number*/
