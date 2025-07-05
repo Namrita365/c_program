@@ -9,7 +9,7 @@ int main()
     while(word[l!='\0']){
         l++;
     }
-    printf("reersed word:");
+    printf("reversed word:");
     for(i=l-1;i>=0;i--){
         printf("reverse:%c",word);
     }
